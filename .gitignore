@@ -1,0 +1,7 @@
+this is first line
+*.ph
+*.net
+*.c
+
+
+[aeiou]*.php 
